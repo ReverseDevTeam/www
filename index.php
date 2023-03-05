@@ -101,7 +101,7 @@
     <div class="container-fluid" id="cards">
         <div class="card-deck" style="padding: 5vh 10vw;">
             <div class="card" style="max-width: 50vh;">
-                <img class="card-img-top" src="static/cards/exceptional.PNG" alt="Card image cap">
+                <img class="card-img-top" src="static/cards/exceptional.png" alt="Card image cap">
                 <div class="card-body">
                     <h4 class="card-title">Fully Coded in C#</h4>
                     <p class="card-text">This project was created using the Unity engine and was coded by people who have had a combined 5 years
