@@ -171,11 +171,11 @@ Enemies are your friends and friends are your enemies which is true for both nor
     </div>
     <div class="container-fluid" id="downloads">
         <p>Interested? Well, Download Now!</p>
-        <a id="dl-linux" href="http://files.treelar.com/Program%20Downloads/ReverseGame/Linux/v1.0.1r/v1.0.1r_L.zip" class="btn btn-lg btn-warning btn-ripple">
+        <a id="dl-linux" href="dl/Linux/v1.0.1r/v1.0.1r_L.zip" class="btn btn-lg btn-warning btn-ripple">
             <i class="fab fa-linux"></i> Linux</a>
-        <a href="http://files.treelar.com/Program%20Downloads/ReverseGame/Windows/v1.0.1r/v1.0.1r.zip" class="btn btn-lg btn-primary btn-ripple">
+        <a href="dl/Windows/v1.0.1r/v1.0.1r.zip" class="btn btn-lg btn-primary btn-ripple">
             <i class="fab fa-windows"></i> Windows</a>
-        <a href="http://files.treelar.com/Program%20Downloads/ReverseGame/MacOS/index.php" class="btn btn-lg btn-success btn-primary btn-ripple">
+        <a href="dl/MacOS/index.php" class="btn btn-lg btn-success btn-primary btn-ripple">
             <i class="fab fa-apple"></i> macOS</a>
     </div>
 
